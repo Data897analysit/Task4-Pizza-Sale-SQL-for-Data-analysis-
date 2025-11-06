@@ -11,6 +11,8 @@ Identify the highest-priced pizza.
 
 Identify the most common pizza size ordered.
 
+Linkedin id :- https://www.linkedin.com/in/priyanshi-rajput/
+
 List the top 5 most ordered pizza types along with their quantities.
 
 Join the necessary tables to find the total quantity of each pizza category ordered.
