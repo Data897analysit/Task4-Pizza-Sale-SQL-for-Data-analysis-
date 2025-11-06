@@ -1,6 +1,8 @@
 # Task4-Pizza-Sale-SQL-for-Data-analysis-
 Hey , My name is Priyanshi and in this project I have utilized Sql queries to solve question that are related to pizza sale.
 
+Linkedin id :- https://www.linkedin.com/in/priyanshi-rajput/
+
 Question :- 
 
  Retrieve the total number of orders placed.
@@ -10,8 +12,6 @@ Calculate the total revenue generated from pizza sales.
 Identify the highest-priced pizza.
 
 Identify the most common pizza size ordered.
-
-Linkedin id :- https://www.linkedin.com/in/priyanshi-rajput/
 
 List the top 5 most ordered pizza types along with their quantities.
 
